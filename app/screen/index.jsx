@@ -1,8 +1,7 @@
-import HomeScreen from "./login";
-import DetailsScreen from "./home";
+import HomeScreen from "./home"
+import LoginScreen from "./login"
 
 export {
     HomeScreen,
-    DetailsScreen   
+    LoginScreen
 }
-
